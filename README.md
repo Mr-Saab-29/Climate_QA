@@ -32,9 +32,7 @@ The Mini-RAG chatbot is built to handle queries related to climate and environme
 To install and run the project locally, follow these steps:
 
 1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/yourusername/mini-rag-chatbot.git
-   cd mini-rag-chatbot
+  
 
 2. **Setup environment variables**:
      Create a .env file in the root directory of the project and add the necessary environment variables for Groq API Key and other configurations.
